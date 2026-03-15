@@ -1,9 +1,12 @@
 # cawave
 
+
 > [!CAUTION]
 > **Vibe Coded Disclaimer**: This project was built with a high degree of agentic assistance. It was iterated through heavily but the overall project is still fully AI generated.
 
 **cawave** is a lightweight, high-performance terminal audio visualizer built in Rust. It uses [cava](https://github.com/karlstav/cava) as its audio processing backend and implements a real-time wave physics simulation to create smooth, organic motion that goes beyond traditional bar visualizers.
+
+![demo](https://raw.githubusercontent.com/Quicksilver151/cawave/refs/heads/assets/demo-small.gif)
 
 ## Features
 
